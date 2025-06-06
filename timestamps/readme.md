@@ -1,0 +1,1 @@
+ Given a list of timestamps and commodity prices, find out highest commodity price at given timestamp. timestamps are not necessarily in sorted order, there can be multiple entries for a timestamp as well.Followup: after each timestamp, commodity price entry, we are putting a checkpoint, given a timestamp and checkpoint find maximum commodity prices till then.
